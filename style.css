@@ -1,0 +1,43 @@
+
+.total{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(48, 105, 180),rgb(97, 182, 41));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.welcome{
+    text-decoration: chocolate;
+    padding-top: 20px;
+    font-size: 4rem;
+}
+
+.heading{
+    text-decoration: coral;
+    font-size: 3rem;
+}
+
+.game{
+    text-align: center;
+    display: inline-block;
+    padding:30px;
+    margin-top: 5%;
+}
+
+p{
+    font-family:fantasy;
+    font-size: 2rem;
+    color:rgb(196, 98, 19);
+}
+
+img{
+    width:90%;
+}
+
